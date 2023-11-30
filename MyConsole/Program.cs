@@ -12,6 +12,8 @@ namespace MyConsole
         {
             Console.WriteLine("Привет, мир!");
             Console.WriteLine("Работа с Git, используя Visual Studio 2019");
+            Console.WriteLine("Эта строка добавлена из Gogs");
+            Console.WriteLine("И эта строка тоже добавлена из Gogs");
         }
     }
 }
