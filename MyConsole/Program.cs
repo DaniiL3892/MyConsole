@@ -11,6 +11,7 @@ namespace MyConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Привет, мир!");
+            Console.WriteLine("Работа с Git, используя Visual Studio 2019");
         }
     }
 }
